@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "shipment-service.ribbon.eureka.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'shipment-service.ribbon.eureka.enabled'"
+  },
+  {
+    "name": "shipment-service.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'shipment-service.ribbon.listOfServers'"
+  },
+  {
+    "name": "shipment-service.ribbon.ServerListRefreshInterval",
+    "type": "java.lang.String",
+    "description": "A description for 'shipment-service.ribbon.ServerListRefreshInterval'"
+  }
+]}
